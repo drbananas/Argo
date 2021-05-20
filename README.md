@@ -19,3 +19,5 @@
 # 7. Design and Manufacturing
 
 # 8. Finite Element Analysis
+
+# Extra: Computational Engineering
